@@ -51,6 +51,3 @@ To deploy the website, you can use any web hosting service such as GitHub Pages,
 ### Contributing
 If you'd like to suggest improvements or contribute to the project, please fork the repository and use a feature branch. Pull requests are welcomed.
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
